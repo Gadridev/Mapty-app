@@ -3,7 +3,7 @@
 
 # Mapty
 
-<a href="https://mapty-app-075.netlify.app/">Mapty-App</a> is a fictional and minimalistic online banking application.
+<a href="https://mapty-app-075.netlify.app/">Mapty-App</a> is a finctional and minimalistic online banking application.
 
 Everything you need in a modern map and more.
 · Detailed Maps
